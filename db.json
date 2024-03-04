@@ -1,0 +1,41 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "name": "yash",
+      "age": "21",
+      "email": "yash@gmail.com"
+    },
+    {
+      "id": "2",
+      "name": "sanket",
+      "age": "22",
+      "email": "sanket@gmail.com"
+    },
+    {
+      "id": "3",
+      "name": "omkar",
+      "age": "29",
+      "email": "omkar@gmail.com"
+    },
+    {
+      "id": "4",
+      "name": "shree",
+      "age": "27",
+      "email": "shree@gmail.com"
+    },
+    {
+      "id": "5",
+      "name": "jay",
+      "age": "24",
+      "email": "jay@gmail.com"
+    },
+    {
+      "id": "6",
+      "name": "Gaurav",
+      "age": "28-",
+      "email": "Gaurav@gmail.com"
+    }
+  
+  ]
+}
